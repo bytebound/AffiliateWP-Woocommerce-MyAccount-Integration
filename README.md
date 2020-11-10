@@ -20,8 +20,8 @@ Adds a custom affiliate tab and AffiliateWP content to the Woocommerce My Accoun
 4. Upload to wordpress using the Wordpress plugin installer.
 
 # How to change the 'Affiliate Area' tab text:
-1. On line 25 replace "Affiliate Area" with your desired text.
+1. On line 24 replace "Affiliate Area" with your desired text.
 
 # How to change the 'Affiliate' url slug:
-1. Locate line 19 and replace "affiliate" with your desired url slug.
-2. Locate line 25 and replace "affiliate" with the same url slug entered on line 19.
+1. Locate line 17 and replace "affiliate" with your desired url slug.
+2. Locate line 24 and replace "affiliate" with the same url slug entered on line 19.
