@@ -1,4 +1,4 @@
-# AffiliateWP-Woocommerce-MyAccount-Integration
+# AffiliateWP - Woocommerce MyAccount Integration
 
 # Description:
 Adds a custom affiliate tab and AffiliateWP content to the Woocommerce My Account area for better integration and management of affiliate links.
@@ -24,4 +24,4 @@ Adds a custom affiliate tab and AffiliateWP content to the Woocommerce My Accoun
 
 # How to change the 'Affiliate' url slug:
 1. Locate line 17 and replace "affiliate" with your desired url slug.
-2. Locate line 24 and replace "affiliate" with the same url slug entered on line 19.
+2. Locate line 24 and replace "affiliate" with the same url slug entered on line 17.
