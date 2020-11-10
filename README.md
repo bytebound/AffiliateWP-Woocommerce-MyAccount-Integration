@@ -1,7 +1,7 @@
 # AffiliateWP-Woocommerce-MyAccount-Integration
 
 # Description:
-Adds a custom affiliate tab and AffiliateWP content to the Woocommerce My Account area for better integration and management.
+Adds a custom affiliate tab and AffiliateWP content to the Woocommerce My Account area for better integration and management of affiliate links.
 
 # Details:
 - Wordpress version: 5.3.3
