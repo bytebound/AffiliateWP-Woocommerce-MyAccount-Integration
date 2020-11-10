@@ -13,11 +13,10 @@
 if ( !defined( 'ABSPATH' ) ) exit;
 
 // Add the rewrite endpoint so we don't run into a 404 error on the new My Account tab
-add_action( 'init', 'my_account_new_endpoints' );
-
 function my_account_new_endpoints() {
     add_rewrite_endpoint( 'affiliate', EP_ROOT | EP_PAGES );
 }
+add_action( 'init', 'my_account_new_endpoints' );
 
 // If Affiliate WP is enabled and the current user is an affiliate add the new affiliate area tab/link to the "My Account" menu 
 function affilatewp_woocommerce_my_account_menu( $items ) {
