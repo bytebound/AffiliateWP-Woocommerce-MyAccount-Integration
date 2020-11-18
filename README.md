@@ -11,8 +11,8 @@ Adds a custom affiliate tab and AffiliateWP content to the Woocommerce My Accoun
 - AffiliateWP Area set to default Woocommerce 'My Account' page.
 
 # Notes:
-- AffiliateWP Shortcodes plugin NOT required
-
+- AffiliateWP Shortcodes plugin NOT required.
+- IMPORTANT: The Affiliate Area tab will only show on the Woocommerce My Account page if the user has already signed up for an affiliate account. 
 # How to install:
 1. Download or clone the plugin files to your computer.
 2. Update the appropriate plugin information as you see fit (Name, URI, Description, Author, etc).
