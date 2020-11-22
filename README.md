@@ -1,5 +1,9 @@
 # AffiliateWP - Woocommerce MyAccount Integration
 
+# Credits: 
+John Forte | Github - https://github.com/johnforte/AffiliateWP-Woocommerce-My-Account-Tab
+Eric Binnion | Blog - https://eric.blog/2016/12/22/adding-affiliate-wp-dashboard-to-woocommerce-my-account-page/
+
 # Description:
 Adds a custom affiliate tab and AffiliateWP content to the Woocommerce My Account area for better integration and management of affiliate links.
 
